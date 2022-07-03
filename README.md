@@ -1,6 +1,6 @@
 ### Hi there welcome to my profile👋
 
-![image](https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg)
+![image](https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png)
 
 
 # i am web developer:
