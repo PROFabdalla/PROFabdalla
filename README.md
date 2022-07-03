@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there welcome to my profile👋
 
-# Here are some ideas to get you started:
+![image](https://www.makewonder.com/wp-content/uploads/sites/4/2021/01/coding-languages-image.jpeg)
+
+
+# i am web developer:
 
 - 🔭 I’m currently working freelancer
 - 🌱 I’m currently learning python
