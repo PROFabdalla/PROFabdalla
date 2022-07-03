@@ -1,6 +1,6 @@
 ### Hi there welcome to my profile👋
 
-![image](https://www.makewonder.com/wp-content/uploads/sites/4/2021/01/coding-languages-image.jpeg)
+![image](https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg)
 
 
 # i am web developer:
