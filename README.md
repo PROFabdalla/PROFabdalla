@@ -5,7 +5,6 @@
 
 # i am web developer:
 
-- 🔭 I’m currently working as a Back-end developer in Mighty groups
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on django
 - 💬 Ask me about what you want
